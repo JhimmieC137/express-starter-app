@@ -2,7 +2,7 @@
 
 ## Overview
 
-Created this to go back to the basic of express, learned from a (probably) failed Backend-developer interview that the basics are necessary so here, the beginning of my true understanding of the Node Express framework.
+Created this to go back to the basics of express, learned from a (probably) failed Backend-developer interview that the basics are necessary so here, the beginning of my true understanding of the Node Express framework.
 
 ## Required installations
 - [Node.js](https://nodejs.org/en)
